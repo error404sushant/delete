@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:14:15	93/93	---M--	200	added ('OK')	text/html	date:Wed,%2004%20Oct%202023%2010:44:14%20GMT	https://garth7853.preview.softr.app/robots.txt		(from )
+16:14:16	245930/245930	---MCZ	200	added ('OK')	text/html	date:Wed,%2004%20Oct%202023%2010:44:15%20GMT	https://garth7853.preview.softr.app/	/Users/sushantkumar/Desktop/web_download/ss/garth7853.preview.softr.app/index.html	(from )
